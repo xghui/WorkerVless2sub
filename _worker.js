@@ -19,7 +19,6 @@ let addressesapi = [
 let addressesnotls = [
 	'www.visa.com.sg#官方优选域名',
 	'www.wto.org:8080#官方优选域名',
-	'www.who.int:8880#官方优选域名',
 ];
 
 // 设置优选noTLS地址api接口
